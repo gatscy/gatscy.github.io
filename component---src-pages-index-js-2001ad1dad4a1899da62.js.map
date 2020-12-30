@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":[],"mappings":"2FAAA,0CAGe,4BACb,sD","file":"component---src-pages-index-js-2001ad1dad4a1899da62.js","sourcesContent":["import React from \"react\"\r\nimport 'bootstrap/dist/css/bootstrap.min.css';\r\n\r\nexport default () => (\r\n  <div>\r\n    Hello gatscy!!!\r\n    하하하 \r\n  </div>\r\n)\r\n"],"sourceRoot":""}

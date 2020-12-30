@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":[],"mappings":"2FAAA,0CAGe,4BACb,+C","file":"component---src-pages-index-js-5dfa639afc1c94bc8200.js","sourcesContent":["import React from \"react\"\r\nimport 'bootstrap/dist/css/bootstrap.min.css';\r\n\r\nexport default () => (\r\n  <div>\r\n    Hello world!\r\n  </div>\r\n)\r\n"],"sourceRoot":""}
